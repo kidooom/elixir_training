@@ -1,0 +1,2 @@
+defmodule ElixirTraining do
+end
